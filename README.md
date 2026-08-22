@@ -1,6 +1,7 @@
 # Memos on Cloudflare
 
 将 [Memos](https://github.com/usememos/memos) 笔记应用完整迁移到 Cloudflare 边缘平台，使用 Workers + D1 + R2 替代原有的 Go + SQLite + 本地存储架构。
+Deployed via Cloudflare Workers Builds.
 
 ## 技术栈
 
